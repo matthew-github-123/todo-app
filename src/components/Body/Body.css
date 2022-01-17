@@ -1,0 +1,6 @@
+.body {
+    padding: 25px 10px;
+    flex: 0.85;
+  
+    border: black 1px solid;
+}

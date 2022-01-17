@@ -1,0 +1,22 @@
+.todo {
+    padding: 15px 20px;
+}
+
+.todo__top{
+    display: flex;
+    justify-content: center;
+}
+
+.todo__bottom{
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    width: 150%;
+    padding-left: 0px;
+}

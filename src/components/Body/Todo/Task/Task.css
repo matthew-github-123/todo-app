@@ -1,0 +1,15 @@
+.task{
+    display: flex;
+    justify-content: space-between;
+    border: black 1px solid;
+}
+
+.task__left{
+    flex: 0.5;
+    text-align: left;
+}
+
+.task__right{
+    flex: 0.5;
+    text-align: right;
+}
